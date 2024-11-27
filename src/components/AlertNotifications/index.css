@@ -1,0 +1,76 @@
+/* Write your CSS here */
+.alert-container-app {
+  display: flex;
+  flex-direction: column;
+}
+
+.responsive-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.text-heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+.alert-container {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.success-icons {
+  color: #2dca73;
+  margin-right: 20px;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.success-text {
+  color: #2dca73;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.description {
+  color: #64748b;
+  font-size: 16px;
+  font-family: 'Roboto';
+  margin-left: 40px;
+}
+.error-icons {
+  color: #ff0b37;
+  margin-right: 20px;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.error-text {
+  color: #ff0b37;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.warning-icons {
+  color: #ffb800;
+  margin-right: 20px;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.warning-text {
+  color: #ffb800;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.info-icons {
+  color: #0f81e0;
+  margin-right: 20px;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.info-text {
+  color: #0f81e0;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
